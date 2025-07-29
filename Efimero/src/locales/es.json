@@ -1,0 +1,80 @@
+{
+  "welcome": {
+    "title": "Efímero",
+    "subtitle": "Mensajería P2P Segura",
+    "enterButton": "Entrar",
+    "description": "Comunicación privada sin servidores"
+  },
+  "profile": {
+    "title": "Perfil",
+    "name": "Nombre",
+    "userId": "ID de Usuario",
+    "copyId": "Copiar ID",
+    "idCopied": "ID copiado al portapapeles",
+    "editName": "Editar nombre",
+    "logout": "Cerrar sesión",
+    "logoutConfirm": "¿Estás seguro de que quieres cerrar sesión? Se borrarán todos los datos locales.",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar"
+  },
+  "contacts": {
+    "title": "Contactos",
+    "addContact": "Agregar Contacto",
+    "searchPlaceholder": "Buscar contactos...",
+    "noContacts": "No tienes contactos aún",
+    "addContactDescription": "Agrega contactos usando su ID o código QR",
+    "enterUserId": "Ingresa el ID del usuario",
+    "scanQR": "Escanear QR",
+    "addButton": "Agregar",
+    "invalidId": "ID de usuario inválido",
+    "contactAdded": "Contacto agregado exitosamente",
+    "contactExists": "Este contacto ya existe",
+    "online": "En línea",
+    "offline": "Desconectado",
+    "connecting": "Conectando..."
+  },
+  "chat": {
+    "title": "Chat",
+    "typePlaceholder": "Escribe un mensaje...",
+    "send": "Enviar",
+    "recordAudio": "Grabar audio",
+    "recordVideo": "Grabar video",
+    "sendFile": "Enviar archivo",
+    "messageDestroyed": "Mensaje autodestruido",
+    "connecting": "Estableciendo conexión P2P...",
+    "connected": "Conectado",
+    "disconnected": "Desconectado",
+    "connectionFailed": "Error de conexión",
+    "retryConnection": "Reintentar conexión"
+  },
+  "settings": {
+    "title": "Configuración",
+    "language": "Idioma",
+    "spanish": "Español",
+    "english": "English",
+    "clearData": "Borrar datos y cerrar sesión",
+    "clearDataDescription": "Esto eliminará todos los contactos y mensajes",
+    "clearDataConfirm": "¿Estás seguro? Esta acción no se puede deshacer.",
+    "dataCleared": "Datos borrados exitosamente"
+  },
+  "permissions": {
+    "camera": "Permiso de cámara requerido",
+    "microphone": "Permiso de micrófono requerido",
+    "storage": "Permiso de almacenamiento requerido",
+    "grantPermission": "Otorgar permiso",
+    "permissionDenied": "Permiso denegado"
+  },
+  "errors": {
+    "networkError": "Error de red",
+    "connectionTimeout": "Tiempo de conexión agotado",
+    "unknownError": "Error desconocido",
+    "tryAgain": "Intentar de nuevo"
+  },
+  "qr": {
+    "scanTitle": "Escanear código QR",
+    "scanDescription": "Apunta la cámara al código QR del contacto",
+    "generateTitle": "Mi código QR",
+    "generateDescription": "Comparte este código para que te agreguen",
+    "invalidQR": "Código QR inválido"
+  }
+}
