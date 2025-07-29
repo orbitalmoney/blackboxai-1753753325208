@@ -1,0 +1,80 @@
+{
+  "welcome": {
+    "title": "Efímero",
+    "subtitle": "Secure P2P Messaging",
+    "enterButton": "Enter",
+    "description": "Private communication without servers"
+  },
+  "profile": {
+    "title": "Profile",
+    "name": "Name",
+    "userId": "User ID",
+    "copyId": "Copy ID",
+    "idCopied": "ID copied to clipboard",
+    "editName": "Edit name",
+    "logout": "Logout",
+    "logoutConfirm": "Are you sure you want to logout? All local data will be deleted.",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  },
+  "contacts": {
+    "title": "Contacts",
+    "addContact": "Add Contact",
+    "searchPlaceholder": "Search contacts...",
+    "noContacts": "You don't have contacts yet",
+    "addContactDescription": "Add contacts using their ID or QR code",
+    "enterUserId": "Enter user ID",
+    "scanQR": "Scan QR",
+    "addButton": "Add",
+    "invalidId": "Invalid user ID",
+    "contactAdded": "Contact added successfully",
+    "contactExists": "This contact already exists",
+    "online": "Online",
+    "offline": "Offline",
+    "connecting": "Connecting..."
+  },
+  "chat": {
+    "title": "Chat",
+    "typePlaceholder": "Type a message...",
+    "send": "Send",
+    "recordAudio": "Record audio",
+    "recordVideo": "Record video",
+    "sendFile": "Send file",
+    "messageDestroyed": "Message self-destructed",
+    "connecting": "Establishing P2P connection...",
+    "connected": "Connected",
+    "disconnected": "Disconnected",
+    "connectionFailed": "Connection failed",
+    "retryConnection": "Retry connection"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "spanish": "Español",
+    "english": "English",
+    "clearData": "Clear data and logout",
+    "clearDataDescription": "This will delete all contacts and messages",
+    "clearDataConfirm": "Are you sure? This action cannot be undone.",
+    "dataCleared": "Data cleared successfully"
+  },
+  "permissions": {
+    "camera": "Camera permission required",
+    "microphone": "Microphone permission required",
+    "storage": "Storage permission required",
+    "grantPermission": "Grant permission",
+    "permissionDenied": "Permission denied"
+  },
+  "errors": {
+    "networkError": "Network error",
+    "connectionTimeout": "Connection timeout",
+    "unknownError": "Unknown error",
+    "tryAgain": "Try again"
+  },
+  "qr": {
+    "scanTitle": "Scan QR code",
+    "scanDescription": "Point the camera at the contact's QR code",
+    "generateTitle": "My QR code",
+    "generateDescription": "Share this code so others can add you",
+    "invalidQR": "Invalid QR code"
+  }
+}
